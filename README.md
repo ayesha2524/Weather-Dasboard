@@ -1,6 +1,9 @@
 Weather Dashboard
 A simple and interactive weather dashboard that allows users to search for any city and view live weather data using the OpenWeatherMap API. The app stores recent searches, auto-loads weather data on refresh, and adapts the theme based on weather conditions.
 
+Live Demo
+https://ayesha2524.github.io/Weather-Dasboard/
+
 Built With
 HTML – Structure of the application
 
